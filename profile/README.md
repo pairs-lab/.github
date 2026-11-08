@@ -1,4 +1,4 @@
-# Perception Autonomy & Intelligent Robotics System Group (PAIRS)
+# Perception Autonomy & Intelligent Robotics System Lab (PAIRS)
  
 
 [Perception Autonomy & Intelligent Robotics System (PAIRS) group](https://thanhnguyencanh.github.io/) at [Department of Robotics Engineering](https://fet.uet.vnu.edu.vn/bo-mon-ky-thuat-robot/), [Faculty of Electronics and Telecommunications](https://fet.uet.vnu.edu.vn/), [Vietnam National University - University of Engineering and Technology](https://uet.vnu.edu.vn/en) integrates various research disciplines required for design, implementation, experimental evaluation, and application of complex robotic systems. 
